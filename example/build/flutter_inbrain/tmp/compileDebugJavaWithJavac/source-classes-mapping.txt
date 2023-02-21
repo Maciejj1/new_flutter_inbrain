@@ -1,0 +1,9 @@
+com/anavrinapps/flutter_inbrain/BuildConfig.java
+ com.anavrinapps.flutter_inbrain.BuildConfig
+com/itlight/new_flutter_inbrain/FlutterInbrainPlugin.java
+ com.anavrinapps.flutter_inbrain.FlutterInbrainPlugin
+ com.anavrinapps.flutter_inbrain.FlutterInbrainPlugin$1
+ com.anavrinapps.flutter_inbrain.FlutterInbrainPlugin$2
+ com.anavrinapps.flutter_inbrain.FlutterInbrainPlugin$3
+ com.anavrinapps.flutter_inbrain.FlutterInbrainPlugin$4
+ com.anavrinapps.flutter_inbrain.FlutterInbrainPlugin$5

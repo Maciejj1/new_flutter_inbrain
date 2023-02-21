@@ -1,0 +1,6 @@
+com/anavrinapps/flutter_inbrain_example/MainActivity.java
+ com.itlight.flutter_inbrain_example.MainActivity
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/itlight/flutter_inbrain_example/BuildConfig.java
+ com.itlight.flutter_inbrain_example.BuildConfig
