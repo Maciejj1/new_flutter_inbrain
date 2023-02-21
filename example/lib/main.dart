@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:new_flutter_inbrain/flutter_inbrain.dart';
+import 'package:new_flutter_inbrain/new_flutter_inbrain.dart';
 
 void main() {
   runApp(MyApp());
