@@ -24,10 +24,6 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 31
-configurations {
-    // Define a configuration that excludes the kotlin-stdlib-jdk8 module
-    implementation.exclude module: 'kotlin-stdlib-jdk8'
-  }
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
